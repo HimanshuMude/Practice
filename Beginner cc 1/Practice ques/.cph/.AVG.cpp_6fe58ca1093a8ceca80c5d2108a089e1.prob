@@ -1,0 +1,1 @@
+{"name":"Local: AVG","url":"c:\\Practice\\Practice ques\\AVG.cpp","tests":[{"id":1647239015233,"input":"3\n3 3 4\n2 7 3\n3 1 4\n7 6 5\n3 3 4\n2 8 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Practice\\Practice ques\\AVG.cpp","group":"local","local":true}

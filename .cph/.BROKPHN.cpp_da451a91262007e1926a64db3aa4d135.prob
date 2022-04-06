@@ -1,0 +1,1 @@
+{"name":"Local: BROKPHN","url":"c:\\Practice\\BROKPHN.cpp","tests":[{"id":1647240437993,"input":"3\n7\n1 1 1 3 3 3 2\n5\n1 3 1 1 1\n4\n5 5 5 5","output":"4\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Practice\\BROKPHN.cpp","group":"local","local":true}
