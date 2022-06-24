@@ -1,1 +1,0 @@
-{"name":"Local: CHFSTLT","url":"c:\\Practice\\Beginner cc 1\\Practice ques\\CHFSTLT.cpp","tests":[{"id":1648554281694,"input":"3\na?c\n??b\n???a\n???a\n?abac\naba?w","output":"1 3\n0 3\n3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Practice\\Beginner cc 1\\Practice ques\\CHFSTLT.cpp","group":"local","local":true}

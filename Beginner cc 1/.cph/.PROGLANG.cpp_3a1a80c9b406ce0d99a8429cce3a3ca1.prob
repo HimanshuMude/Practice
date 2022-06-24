@@ -1,1 +1,0 @@
-{"name":"Local: PROGLANG","url":"c:\\Practice\\DP\\PROGLANG.cpp","tests":[{"id":1648127214674,"input":"1\n1 2 1 3 2 3\n","output":"0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Practice\\DP\\PROGLANG.cpp","group":"local","local":true}
