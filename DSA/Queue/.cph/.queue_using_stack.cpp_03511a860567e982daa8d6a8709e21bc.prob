@@ -1,0 +1,1 @@
+{"name":"Local: queue_using_stack","url":"c:\\Practice\\DSA\\Queue\\queue_using_stack.cpp","tests":[{"id":1656229945823,"input":"3\n3 3\n1 2\n1 1","output":"1 2 3\n3 6 9\n5 10 15\n1 2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Practice\\DSA\\Queue\\queue_using_stack.cpp","group":"local","local":true}

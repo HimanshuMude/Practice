@@ -2,34 +2,7 @@
 	using namespace std;
 
 	void solve(){
-		long long int n;
-		cin>>n;
-		long long int gcd;
-		cin>>gcd;
-		vector<int>v;
-		v.push_back(gcd);
-		for (long long int i = 1; i < n; ++i)
-		{
-			long long int x;
-			cin>>x;
-			v.push_back(x);
-			gcd=__gcd(x,gcd);	
-		}
-		if(gcd==1) cout<<"0\n";
-		else{
-			int cnt=0;
-			for(int &i: v)
-			{
-				if(i%gcd==0)
-				{
-					cnt++;
-
-				}
-			}
-			cout<<cnt<<"\n";
-		}
-
-
+		cout<<"YES";
 	}
 
 	int main()
